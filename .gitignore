@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Jupyter Notebookの自動保存ファイル
+.ipynb_checkpoints/
+
+# OSが自動生成する隠しファイル
+.DS_Store
+Thumbs.db
